@@ -1,7 +1,6 @@
 {
   "name": "insomnia-plugin-terminal-command",
   "version": "1.0.0",
-  "private": true,
   "insomnia": {
     "name": "terminal-command",
     "description": "Run terminal command in Insomnia",

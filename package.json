@@ -1,0 +1,24 @@
+{
+  "name": "insomnia-plugin-terminal-command",
+  "version": "1.0.0",
+  "private": true,
+  "insomnia": {
+    "name": "terminal-command",
+    "description": "Run terminal command in Insomnia",
+    "images": {
+      "icon": "terminal.png"
+    }
+  },
+  "keywords": [
+    "insomnia",
+    "plugin",
+    "terminal",
+    "command"
+  ],
+  "author": "Vimekk",
+  "license": "MIT",
+  "dependencies": {
+    "jsonpath": "^1.1.1"
+  },
+  "main": "main.js"
+}

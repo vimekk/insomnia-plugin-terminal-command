@@ -20,5 +20,11 @@
   "dependencies": {
     "jsonpath": "^1.1.1"
   },
-  "main": "main.js"
+  "main": "main.js",
+  "bugs": {
+    "url": "https://github.com/vimekk/insomnia-plugin-terminal-command/issues"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }

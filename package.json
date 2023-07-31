@@ -25,5 +25,13 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "description": "Use terminal command output in Insomnia.",
+  "devDependencies": {
+    "jsonpath": "^1.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github-personal:vimekk/insomnia-plugin-terminal-command.git"
   }
 }

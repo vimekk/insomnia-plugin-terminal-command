@@ -5,7 +5,7 @@
     "name": "terminal-command",
     "description": "Run terminal command in Insomnia",
     "images": {
-      "icon": "terminal.png"
+      "icon": "npm/content/terminal.png"
     }
   },
   "keywords": [

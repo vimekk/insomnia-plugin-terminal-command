@@ -1,6 +1,9 @@
 {
   "name": "insomnia-plugin-terminal-command",
-  "version": "1.0.0",
+  "version": "1.0.1",
+  "author": "Vimekk",
+  "license": "MIT",
+  "description": "Use terminal command output in Insomnia.",
   "insomnia": {
     "name": "terminal-command",
     "description": "Run terminal command in Insomnia",
@@ -14,8 +17,6 @@
     "terminal",
     "command"
   ],
-  "author": "Vimekk",
-  "license": "MIT",
   "dependencies": {
     "jsonpath": "^1.1.1"
   },
@@ -25,10 +26,6 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "description": "Use terminal command output in Insomnia.",
-  "devDependencies": {
-    "jsonpath": "^1.1.1"
   },
   "repository": {
     "type": "git",
